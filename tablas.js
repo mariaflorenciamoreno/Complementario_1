@@ -6,6 +6,6 @@ if (Valor == "ESC")
         for(let i=1;i<=10;i++)
         console.log("EL VALOR DE "+ Valor + "x" + i + " ES = " + Valor*i)
     else if (Valor <= 0 || Valor > 100)
-        alert("fuaa la re vivis")
+        alert("Uyy! No cumple la consigna")
         else
-       alert("sabes lo que es un numero??")
+       alert("Debes ingresar solo números del 0 al 100")
